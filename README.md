@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning FullStack Web Development at BloomTech
-- 📫 How to reach me: [email](eduarddo.escobar@gmail.com) or [linkedin](https://www.linkedin.com/in/eduarddoescobar/)
