@@ -32,7 +32,10 @@ Here are some ideas to get you started:
 <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="Heroku" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" height="50" />
 
-## Stats
+---
+📊 Stats
+---
+\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduarddoescobar&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduarddoescobar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
