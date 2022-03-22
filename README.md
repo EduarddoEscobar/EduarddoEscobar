@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 ---
 🧰 Toolbox
 ---
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" height="50" width="50" /> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" height="50" width="50" />
+\
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" height="50" width="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" height="50" width="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" height="50" />
