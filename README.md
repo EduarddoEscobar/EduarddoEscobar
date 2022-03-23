@@ -34,3 +34,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarddoescobar&hide=html,css&theme=radical" />
 </p>
+
+---
+🤝 Contact
+---
+
+<img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail" width="25"/> Gmail: <a href="mailto:eduarddoescobar@gmail.com">Eduarddo.escobar@gmail.com</a><br />
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="25"/> LinkedIn: <a href="https://www.linkedin.com/in/eduarddoescobar" target="_blank">EduarddoEscobar</a>
