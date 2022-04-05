@@ -12,9 +12,6 @@
 📖 About Me
 ---
 
-
-I enjoy learning new technologies and I look to put them to use by engaging in new projects.
-
 In 2017, I started making my first console programs with Java. Shortly after, I decided to start recreating some games that I thought were fun to remake like Pong, Chess, and Tetris. After that, I decided to try ventures outside of the gaming world, switching to task automation by using Python to make AI.
 
 ---
