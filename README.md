@@ -28,7 +28,7 @@ In 2017, I started making my first console programs with Java. Shortly after, I 
  </p>
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarddoescobar&hide=html,css&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarddoescobar&hide=html,css,less,shell&theme=radical" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
