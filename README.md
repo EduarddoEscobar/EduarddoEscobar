@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Escobar</h1>
 <h3 align="center">A FullStack Web Developer that loves to learn new technologies</h3>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Spring Security**
 
 - 💬 Ask me about **Work Opportunities or Web Devlopment**
 
